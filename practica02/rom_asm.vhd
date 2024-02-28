@@ -1,7 +1,7 @@
 -- ****************************************
 -- tittle:	ROM de la carta ASM
 -- author:	F.R., G.M.
--- date:		2023-04-25
+-- date:		2024-02-28
 -- description: La ROM describe una carta ASM, empleando el método de "direccionamiento por trayectoria
 -- ****************************************
 
